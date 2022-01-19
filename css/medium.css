@@ -1,0 +1,14 @@
+@media only screen and (min-width: 560px){
+nav li{float: left; width: 25%;}
+
+main figure{ float: right;
+width: 50%;
+margin-left: 2%;}
+
+div.news{
+    clear: both; /*means stay below any floating image */
+    column-count: 2;
+    column-rule: 1px solid #ddd;
+}
+}
+/* End of Media Query*/
