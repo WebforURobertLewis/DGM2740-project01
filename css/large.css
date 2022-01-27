@@ -13,4 +13,8 @@ div.news{
     column-count: 3;
 }
 }
+.active{
+    background-color: #131313;
+    color: white;
+}
 /* End of Media Query*/
